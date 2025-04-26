@@ -62,4 +62,6 @@ This project was inspired by a variety of online resources, including YouTube vi
 
 Overall, this movie recommender system serves as a solid foundation for anyone interested in learning about basic recommendation logic and Java programming. It can be expanded with features like user profiles, ratings, or integration with larger movie databases. For now, it stands as a practical example of how to build a functional, user-friendly CLI application in Java, drawing on a mix of online learning and hands-on experimentation. 
 
+#SNAPSHOTS
 
+![Image](https://github.com/user-attachments/assets/3359cb52-ba84-49ff-96c9-1fa300158ae3)
